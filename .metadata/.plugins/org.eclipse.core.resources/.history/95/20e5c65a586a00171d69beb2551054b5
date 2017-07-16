@@ -1,0 +1,9 @@
+package serverless.springbootstarter;
+
+public class DeploymentApiApp {
+
+	public static void main(String[] args) {
+         
+	}
+
+}

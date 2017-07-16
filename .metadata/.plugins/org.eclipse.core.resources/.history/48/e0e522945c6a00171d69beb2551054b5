@@ -1,0 +1,5 @@
+package serverless.springbootstarter.service;
+
+public class ServiceController {
+
+}

@@ -1,0 +1,6 @@
+package serverless.springbootstarter.topic;
+
+public class TopicService {
+
+	
+}
